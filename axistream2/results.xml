@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1667497262" />
+    <testcase name="test_axistream_passthrough" classname="axistream" file="C:/Users/hp/Downloads/Cocotb/axistream/axistream.py" lineno="11" time="0.07814288139343262" sim_time_ns="161.0" ratio_time="2060.328428246709" />
+  </testsuite>
+</testsuites>
