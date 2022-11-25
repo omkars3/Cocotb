@@ -1,2 +1,3 @@
 # Cocotb
-#This files is about axistream protocol
+#This file is about axistream protocol
+#Python testbench is written to send data through axistream protocol
